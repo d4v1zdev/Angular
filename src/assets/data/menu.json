@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Inicio",
+        "redirect": "/inicio"
+    },
+
+    {
+        "nombre": "Peliculas",
+        "redirect": "/inicio/peliculas"
+    },
+
+    {
+        "nombre": "Contacto",
+        "redirect": "/inicio/contacto"
+    },
+
+    {
+        "nombre": "Nosotros",
+        "redirect": "/inicio/nosotros"
+    }
+]

@@ -1,0 +1,49 @@
+.somos {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.form {
+    width: 400px;
+    background: var(--secundario);
+    padding: 30px;
+    margin: auto;
+    border-radius: 4px;
+    color: b7dcf
+}
+
+.form p {
+    font-size: 22px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.control {
+    width: 100%;
+    background-color: #c5babacb;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 3px solid #064f57;
+}
+
+.form input {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #2b7dcf;
+
+}
+
+.form div {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.trab {
+    font-size: 30px;
+    padding-top: 60px;
+    text-align: center;
+}
